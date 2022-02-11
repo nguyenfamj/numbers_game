@@ -8,5 +8,5 @@ I have written all the game functions in JavaScript, and the HTML and CSS is bas
 
 ## Demo
 
-numberguessnf.netlify.app
+https://numberguessnf.netlify.app/
 
